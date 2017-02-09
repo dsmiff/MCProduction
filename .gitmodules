@@ -1,0 +1,3 @@
+[submodule "mc-production"]
+	path = mc-production
+	url = git@github.com:dsmiff/mc-production.git
